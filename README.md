@@ -1,6 +1,8 @@
-===Serpiente===
+# Serpiente
 
 Juego tipo "Snake" usando exclusivamente la terminal
+
+## License
 
 Copyright (C) 2013 Rafael Bailón-Ruiz <rafael1193 [at] ieee [dot] org>
 Some rights reserved.
